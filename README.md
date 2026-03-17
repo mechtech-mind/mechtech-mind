@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aayush Saurabh
 
-🚀 Flutter Developer | WEBRTC Engineer |  Building Local AI Systems  |  VOIP Engineer
+Flutter Developer | VoIP & WebRTC | Building Real-time Systems
 
 ---
 
