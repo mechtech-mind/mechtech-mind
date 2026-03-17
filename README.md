@@ -1,5 +1,7 @@
 # Hi 👋, I'm Aayush Saurabh
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mechtech-mind&theme=tokyo-night)
+
 Flutter Developer | VoIP & WebRTC | Building Real-time Systems
 
 ---
