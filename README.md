@@ -12,6 +12,16 @@ Flutter Developer | VoIP & WebRTC | Building Real-time Systems
 
 ---
 
+## 💼 Professional Experience
+
+### 🏢 Rirabh Consulting Services LLP
+- Working on **production-level VoIP applications**
+- Implemented **SIP calling using dart_sip_ua**
+- Integrated **CallKit (iOS) & Telecom APIs (Android)**
+- Handling **real-time communication systems**
+
+---
+
 ## 🚀 Featured Projects
 
 ### 📞 VoIP Calling App
