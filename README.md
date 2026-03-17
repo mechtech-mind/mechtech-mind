@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋, I'm Aayush Saurabh
 
-<!--
-**mechtech-mind/mechtech-mind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Flutter Developer | 📞 VoIP Engineer | 🤖 Building Local AI Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🔭 Working on **SIP + WebRTC calling apps (Flutter)**
+- 📡 Hands-on with **FreePBX, dart_sip_ua, flutter_webrtc**
+- 🤖 Building a **local AI system with document + web search**
+- ⚙️ Background: Mechanical → Product Design → Software
+
+---
+
+## 🚀 Featured Projects
+
+### 📞 VoIP Calling App
+- Flutter + SIP + WebRTC
+- CallKit + Android Telecom integration
+- Real-time voice/video calling
+
+### 🤖 Local AI Assistant
+- Offline knowledge system
+- PDF + Web search integration
+- Developer productivity tool
+
+---
+
+## 🛠️ Tech Stack
+- Flutter, Dart  
+- SIP, WebRTC, FreePBX  
+- Firebase, REST APIs  
+- Python (ML basics)  
+- Blender, Fusion 360  
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=mechtech-mind&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=mechtech-mind&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/aayush-saurabh-894734184/
+- 🎨 Portfolio: https://www.behance.net/aayushsaurabh/projects
+
+---
+
+⭐ Building real-world systems, not just apps.
